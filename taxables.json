@@ -1,0 +1,79 @@
+[
+    {
+        "total": " \"Total\"", 
+        "index": "Index", 
+        "cost": " \"Cost\"", 
+        "tax": " \"Tax\"", 
+        "item": " \"Item\""
+    }, 
+    {
+        "total": "  8.57", 
+        "index": " 1", 
+        "cost": "  7.97", 
+        "tax": " 0.60", 
+        "item": " \"Fruit of the Loom Girl's Socks\""
+    }, 
+    {
+        "total": "  3.19", 
+        "index": " 2", 
+        "cost": " 2.97", 
+        "tax": " 0.22", 
+        "item": " \"Rawlings Little League Baseball\""
+    }, 
+    {
+        "total": "  1.39", 
+        "index": " 3", 
+        "cost": "           1.29", 
+        "tax": " 0.10", 
+        "item": " \"Secret Antiperspirant\""
+    }, 
+    {
+        "total": " 16.08", 
+        "index": " 4", 
+        "cost": "                   14.96", 
+        "tax": " 1.12", 
+        "item": " \"Deadpool DVD\""
+    }, 
+    {
+        "total": "  7.83", 
+        "index": " 5", 
+        "cost": "      7.28", 
+        "tax": " 0.55", 
+        "item": " \"Maxwell House Coffee 28 oz\""
+    }, 
+    {
+        "total": " 0.50", 
+        "index": " 6", 
+        "cost": " 8 oz\"", 
+        "tax": "     6.68", 
+        "item": " \"Banana Boat Sunscreen"
+    }, 
+    {
+        "total": " 0.75", 
+        "index": " 7", 
+        "cost": " 18 pieces\"", 
+        "tax": "          10.00", 
+        "item": " \"Wrench Set"
+    }, 
+    {
+        "total": " 0.67", 
+        "index": " 8", 
+        "cost": " 42 oz\"", 
+        "tax": "                  8.98", 
+        "item": " \"M and M"
+    }, 
+    {
+        "total": "  2.28", 
+        "index": " 9", 
+        "cost": "           2.12", 
+        "tax": " 0.16", 
+        "item": " \"Bertoli Alfredo Sauce\""
+    }, 
+    {
+        "total": " 0.46", 
+        "index": "10", 
+        "cost": " 10 boxes\"", 
+        "tax": "      6.19", 
+        "item": " \"Large Paperclips"
+    }
+]
